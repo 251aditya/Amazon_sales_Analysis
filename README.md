@@ -6,8 +6,8 @@ I'm creating a Tableau Dashboard where I analysis complete Dataset about Amazon 
 - [Problem Statement](#problem_statement)
 - [Dataset](#dataset)
 - [Manupulation](#manupulation)
-- [Insights & Analysis](#insights & analysis)
-- [Report Generation & presentation](#report generation & presentation)
+- [Insights & Analysis](#insights_&_analysis)
+- [Report Generation & presentation](#report_generation_&_presentation)
 
 ## Problem_Statement:
 Sales management has gained importance to meet increasing competition and the need for improved methods of distribution to reduce cost and to increase profits. Sales management today is the most important function in a commercial and business enterprise.
@@ -21,7 +21,11 @@ Tableau Public : leveraged Tableau to visualization powerful capabilites to crea
 
 ## Insights & Analysis
 >>  Evaluate the impact of marketing campaigns, pricing changes, and promotions on sales.
+
+
 >>  Explored correlations between Customers demographics, product category, and sales performance.
+
+
 >>  Identify Sales and profit on the basis of Sales channel, year wise , Items types
 
 ## Report Generation & presentation
