@@ -3,7 +3,7 @@
 I'm creating a Tableau Dashboard where I analysis complete Dataset about Amazon Sales in different Region 
 
 ## Table of Contents
-- [Problem Statement](#problem statement)
+- [Problem Statement](#problem_statement)
 - [Dataset](#dataset)
 - [Manupulation](#manupulation)
 - [Insights & Analysis](#insights & analysis)
